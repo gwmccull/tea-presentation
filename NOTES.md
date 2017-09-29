@@ -71,8 +71,8 @@ Sometimes you can estimate the solution
 Encryption is an example of too slow. Mapping is an example of estimating
 
 ### Lots of Data
-	Netflix is able to recommend movies because it has lots of data about what
-	people like.  It also uses this data to design shows to be popular
+Netflix is able to recommend movies because it has lots of data about what
+people like.  It also uses this data to design shows to be popular
 
 ### So we're ready, right?
 Now we've decided that we should solve this problem and we can solve this problem?  
